@@ -97,7 +97,7 @@ const menu = () => {
                 task.close()
                 break;
             default:
-                console.log("\nYou must choose from 1 to 5.");
+                console.log("\nYou must choose from 1 to 6.");
                 menu();
                 
         }
